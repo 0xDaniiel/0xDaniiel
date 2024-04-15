@@ -4,8 +4,9 @@
 I'm a passionate frontend developer with a keen interest in crafting beautiful and intuitive user interfaces. I love to explore the latest web technologies and strive to create seamless experiences for users.
 
 ## Skills
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks/Libraries:** React.js, Next.js, Tailwind
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Frameworks/Libraries:** React.js, Next.js, Tailwind CSS
+- Backend Tools: MongoDb, Postgres, Node.Js, Express.Js
 - **Tools:** Git, Webpack, npm
 
 ## Projects
