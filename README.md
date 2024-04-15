@@ -1,4 +1,4 @@
-# Hello, I'm Daniel! 👋
+# Hello, I'm Daniel! 
 
 ## About Me
 I'm a passionate frontend developer with a keen interest in crafting beautiful and intuitive user interfaces. I love to explore the latest web technologies and strive to create seamless experiences for users.
