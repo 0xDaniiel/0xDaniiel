@@ -1,7 +1,7 @@
 # Hello, I'm Daniel! 
 
 ## About Me
-I'm a passionate frontend developer with a keen interest in crafting beautiful and intuitive user interfaces. I love to explore the latest web technologies and strive to create seamless experiences for users.
+I'm a frontend developer with a keen interest in crafting beautiful and intuitive user interfaces. I love to explore the latest web technologies and strive to create seamless experiences for users.
 
 ## Skills
 - **Languages:** HTML, CSS, JavaScript, TypeScript
