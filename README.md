@@ -7,7 +7,7 @@ Always ready to learn, lets connect!
 ## Skills
 - **Languages:** HTML, CSS, JavaScript, TypeScript
 - **Frameworks/Libraries:** React.js, Next.js, Tailwind CSS
-- Backend Tools: MongoDb, Postgres, Node.Js, Express.Js
+- **Backend**: MongoDb, Postgres, Node.Js, Express.Js
 - **Tools:** Git, Webpack, npm
 
 ## Projects
