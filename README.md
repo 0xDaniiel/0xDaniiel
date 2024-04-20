@@ -38,7 +38,7 @@ Contributions are welcome! Feel free to open issues or pull requests if you have
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-2. [Fitness Tracker](https://github.com/1am-programmer/fitness-tracker.git) - # Fitness Tracker
+2. [Fitness Tracker](https://github.com/1am-programmer/fitness-tracker.git) - # (THIS REPO IS PRIVATE for now)
 
 ## About the Project
 This project is a fitness tracker application designed to help users keep track of their workouts and monitor their progress over time. Users can log various types of workouts, such as running, cycling, or weightlifting, and view statistics and visualizations of their fitness activities.
