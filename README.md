@@ -35,7 +35,7 @@ Once the chatbot script is running, you can start interacting with the chatbot. 
 
 
 
-2. [Fitness Tracker](https://github.com/1am-programmer/fitness-tracker.git) - # (PRIVATE REPO)
+2. [Fitness Tracker](https://github.com/1am-programmer/fitness-tracker.git) - (PRIVATE REPO)
 
 ## About the Project
 This project is a fitness tracker application designed to help users keep track of their workouts and monitor their progress over time. Users can log various types of workouts, such as running, cycling, or weightlifting, and view statistics and visualizations of their fitness activities.
