@@ -5,10 +5,10 @@ I'm a frontend developer with a keen interest in crafting beautiful and intuitiv
 Always ready to learn, lets connect!
 
 ## Skills
-- **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks/Libraries:** React.js, Next.js, Tailwind CSS
-- **Backend**: MongoDb, Postgres, Node.Js, Express.Js
-- **Tools:** Git, Webpack, npm
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Figma, Tailwind CSS, Web Optimization, Redux & Redux Toolkit, Responsive web designs
+- **Frameworks/Libraries:** React.js, Next.js, Tailwind Css, Vite, Shadcn ui
+- **Backend**: MongoDb, Node.Js, Express.Js, Thunder client, Rapid api client, APIs
+- **Tools:** Git, Webpack, npm, Chrome dev tools,  
 
 ## Projects
 Here are a few projects I've worked on:
