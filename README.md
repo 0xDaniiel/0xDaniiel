@@ -71,7 +71,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Get in Touch
 - LinkedIn: [Daniel Chimezie](https://www.linkedin.com/in/da23niel)
-- Email: [Danny](dannydotdev@gmail.com)
+- Email: [dannydotdev@gmail.com]
 
 Feel free to reach out if you'd like to collaborate or just chat about frontend development!
 
