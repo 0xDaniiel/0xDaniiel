@@ -36,39 +36,6 @@ Once the chatbot script is running, you can start interacting with the chatbot. 
 
 
 
-
-2. [Fitness Tracker](https://github.com/1am-programmer/fitness-tracker.git) - (PRIVATE REPO)
-
-## About the Project
-This project is a fitness tracker application designed to help users keep track of their workouts and monitor their progress over time. Users can log various types of workouts, such as running, cycling, or weightlifting, and view statistics and visualizations of their fitness activities.
-
-## Features
-- Log different types of workouts with details like duration, distance, and intensity.
-- View a dashboard with summary statistics and visualizations of workout data.
-- Set fitness goals and track progress towards achieving them.
-- User authentication and authorization to securely manage personal data.
-
-## Getting Started
-To get started with the project, follow these steps:
-1. Clone the repository: `git clone https://github.com/1am-programmer/fitness-tracker.git`
-2. Navigate to the project directory: `cd fitness-tracker`
-3. Install dependencies: `npm install`
-4. Configure environment variables, database settings, and authentication settings as per instructions in the project's documentation.
-5. Start the application: `npm run dev`
-
-## Technologies Used
-- Frontend: React.js,Redux toolkits , Material-UI
-- Backend: Node.js, Express.js, MongoDB
-- Authentication: JSON Web Tokens (JWT)
-- Data Visualization: Chart.js
-
-## Contributing
-Contributions are welcome! Feel free to open issues or pull requests if you have any suggestions, bug fixes, or feature requests.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
-
-
 ## Get in Touch
 - LinkedIn: [Daniel Chimezie](https://www.linkedin.com/in/da23niel)
 - Email: [dannydotdev@gmail.com]
