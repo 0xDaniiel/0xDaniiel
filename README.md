@@ -22,14 +22,8 @@ Here are some of the technologies and tools I work with:
 ## Get in Touch
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to connect with me via:
 
-
 - [LinkedIn][https://www.linkedin.com/in/da23niel/]
 - [Twitter][https://x.com/1am_programmer]
 - [Instagram][https://www.instagram.com/1am_programmer?igsh=bnViNWQzbjNrcHF5&utm_source=qr)]
 
-[![Twitter](https://img.shields.io/x/follow/1am_programer?style=social&logo=twitter)](https://x.com/1am_programmer)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/da23niel)
-
-
-
-- [Email](mailto:your.email@example.com)
+- [Email Me](mailto:dannydotdev@gmail.com)
