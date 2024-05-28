@@ -19,15 +19,11 @@ Here are some of the technologies and tools I work with:
 
 
 
-## GitHub Stats
-
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=1am-programmer&show_icons=true&theme=default)
-
-
 ## Get in Touch
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to connect with me via:
 
-- [LinkedIn](Your LinkedIn Profile)
-- [Twitter](Your Twitter Profile)
+- [LinkedIn][https://www.linkedin.com/in/da23niel/]
+- [Twitter][https://x.com/1am_programmer]
+- [Instagram][https://www.instagram.com/1am_programmer?igsh=bnViNWQzbjNrcHF5&utm_source=qr)]
+
 - [Email](mailto:your.email@example.com)
