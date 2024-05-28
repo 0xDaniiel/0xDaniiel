@@ -7,7 +7,7 @@
 - 🌍 Based in: Nigeria, working Remote
 - 💼 Currently working at: Job seeking 🔍
 - 📧 How to reach me: [dannydotdev@gmail.com]
-- 🌐 Portfolio: [[Your Website/Portfolio]](https://danieltriedcoding.vercel.app/)
+- 🌐 Portfolio: [https://danieltriedcoding.vercel.app]
 
 ## Skills
 Here are some of the technologies and tools I work with:
