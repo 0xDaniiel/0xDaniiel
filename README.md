@@ -1,11 +1,10 @@
 # Welcome to My GitHub Profile 👋
 
 ## About Me
-  Hi, I'm Daniel, a Frontend Developer with a strong background in creating dynamic and responsive web applications. I enjoy solving complex problems and creating efficient, scalable solutions.
+ I'm Daniel, a Frontend Developer with a strong background in creating dynamic and responsive web applications. I enjoy solving complex problems and creating efficient, scalable solutions.
 
 
 - 🌍 Based in: Nigeria, working Remote
-- 💼 Currently working at: Job seeking 🔍
 - 📧 How to reach me: [dannydotdev@gmail.com]
 - 🌐 Portfolio: [https://danieltriedcoding.vercel.app]
 
