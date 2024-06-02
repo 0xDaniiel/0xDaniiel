@@ -26,3 +26,11 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 - [Instagram][https://www.instagram.com/1am_programmer?igsh=bnViNWQzbjNrcHF5&utm_source=qr)]
 
 - [Email Me](mailto:dannydotdev@gmail.com)
+
+
+
+
+
+
+
+<a href="https://app.daily.dev/danny23m"><img src="https://api.daily.dev/devcards/v2/ITh8zV46k34Norhn5TM9l.png?type=default&r=zsi" width="356" alt="Daniel's Dev Card"/></a>
