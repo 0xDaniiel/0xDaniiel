@@ -29,8 +29,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 
 
+<a href="https://app.daily.dev/danny23m"><img src="https://api.daily.dev/devcards/v2/ITh8zV46k34Norhn5TM9l.png?type=default&r=i3n" width="600" alt="Daniel's Dev Card"/></a>
 
 
-
-
-<a href="https://app.daily.dev/danny23m"><img src="https://api.daily.dev/devcards/v2/ITh8zV46k34Norhn5TM9l.png?type=default&r=zsi" width="356" alt="Daniel's Dev Card"/></a>
