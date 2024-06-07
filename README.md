@@ -22,7 +22,7 @@ Here are some of the technologies and tools I work with:
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to connect with me via:
 
 - [LinkedIn][https://www.linkedin.com/in/da23niel/]
-- [Twitter][https://x.com/1am_programmer]
+- [Twitter][https://x.com/1am_programmer2]
 - [Instagram][https://www.instagram.com/1am_programmer?igsh=bnViNWQzbjNrcHF5&utm_source=qr)]
 
 - [Email Me](mailto:dannydotdev@gmail.com)
