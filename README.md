@@ -1,11 +1,10 @@
 # Welcome to My GitHub Profile 👋
 
 ## About Me
- I'm Daniel, a Frontend Developer with a strong background in creating dynamic and responsive web applications. I enjoy solving complex problems and creating efficient, scalable solutions.
-
+ I'm Daniel, a Frontend Developer
 
 - 🌍 Based in: Nigeria, working Remote
-- 📧 How to reach me: [dannydotdev@gmail.com]
+- [Email Me](mailto:dannydotdev@gmail.com)
 - 🌐 Portfolio: [https://danieltriedcoding.vercel.app]
 
 ## Skills
@@ -13,10 +12,8 @@ Here are some of the technologies and tools I work with:
 
 - **Languages**: [Html, CSS, JavaScript, TypeScript]
 - **Frameworks**: [React.js, Next.js, Tailwind CSS, Node.js]
-- **Tools**: [Visual Studio Code (VS Code), Git, Webpack, NPM (Node Package Manager), Figma, Postman, ESLint, Babel, Chrome Developer Tools, Sass (Syntactically Awesome Stylesheets).]
+- **Tools**: [Visual Studio Code (VS Code), Git, Webpack, NPM (Node Package Manager), Figma, Postman, RestAPI, Redux, Chrome Developer Tools, Sass,Sentry.]
 - **Databases**: [Appwrite, MongoDB, Firebase]
-
-
 
 ## Get in Touch
 I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to connect with me via:
@@ -25,7 +22,7 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 - [Twitter][https://x.com/1am_programmer2]
 - [Instagram][https://www.instagram.com/1am_programmer?igsh=bnViNWQzbjNrcHF5&utm_source=qr)]
 
-- [Email Me](mailto:dannydotdev@gmail.com)
+
 
 
 
