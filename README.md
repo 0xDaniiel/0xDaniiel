@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile 👋
+# Welcome 👋
 
 ## About Me
  I'm Daniel, a Frontend Developer
