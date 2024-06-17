@@ -15,12 +15,8 @@ Here are some of the technologies and tools I work with:
 - **Tools**: [Visual Studio Code (VS Code), Git, Webpack, NPM (Node Package Manager), Figma, Postman, RestAPI, Redux, Chrome Developer Tools, Sass,Sentry.]
 - **Databases**: [Appwrite, MongoDB, Firebase]
 
-## Get in Touch
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to connect with me via:
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to connect with me 
 
-- [LinkedIn][https://www.linkedin.com/in/da23niel/]
-- [Twitter][https://x.com/1am_programmer2]
-- [Instagram][https://www.instagram.com/1am_programmer?igsh=bnViNWQzbjNrcHF5&utm_source=qr)]
 
 
 
