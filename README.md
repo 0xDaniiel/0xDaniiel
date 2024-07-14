@@ -11,11 +11,16 @@ As a frontend developer, I specialize in transforming business ideas into realit
 Here are some of the technologies and tools I work with:
 
 - **Languages**: [Html, CSS, JavaScript, TypeScript]
+  
 - **Frameworks**: [React.js, Next.js, Tailwind CSS, Node.js]
+  
 - **Tools**: [Visual Studio Code (VS Code), Git, Webpack, NPM (Node Package Manager), Figma, Postman, RestAPI, Redux, Chrome Developer Tools, Sass, Sentry.]
+  
 - **Databases**: [Appwrite, MongoDB, Firebase]
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to connect with me and hey; If no one told you today, you're awesome.
+**I'm always open to discussing new projects, creative ideas, and opportunities to be part of your vision. Feel free to connect with me** and
+
+_Hey! If no one told you today, you're awesome._
 
 
 
