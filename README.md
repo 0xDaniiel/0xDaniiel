@@ -1,9 +1,5 @@
 # Hey There 👋
 
-## About Me
- I'm Daniel, a Frontend Developer
-
-- 🌍 Based in: Nigeria, working Remote
 - [Email Me](mailto:dannydotdev@gmail.com)
 - 🌐 Portfolio: [https://danieltriedcoding.vercel.app]
 
