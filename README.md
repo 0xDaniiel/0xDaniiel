@@ -4,6 +4,8 @@ As a frontend developer, I specialize in transforming business ideas into realit
 
 - [Send a Mail](mailto:dannydotdev@gmail.com)
 - [View my portfolio](https://danieltriedcoding.vercel.app)
+- [Let's talk on Instagram](https://instagram.com/1am_programmer)
+- [How about on X](https://x.com/1am_programmer2)
 
 ## Skills
 Here are some of the technologies and tools I work with:
