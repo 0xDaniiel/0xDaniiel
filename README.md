@@ -8,7 +8,7 @@ As a frontend developer, I specialize in transforming business ideas into realit
 - [How about on X](https://x.com/1am_programmer2)
 
 
-[Download My Resume](https://github.com/1am-programmer/1am-programmer.github.io/releases/tag/initial-release)
+[Download My Resume](https://github.com/1am-programmer/1am-programmer.github.io/releases/download/v1.0/resume.pdf)
 
 
 ## Skills
