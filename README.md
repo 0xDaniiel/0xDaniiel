@@ -7,9 +7,8 @@ As a frontend developer, I specialize in transforming business ideas into realit
 - [Let's talk on Instagram](https://instagram.com/1am_programmer)
 - [How about on X](https://x.com/1am_programmer2)
 
-<a href="resume.pdf" download>Download My Resume</a>
 
-[Download My Resume](https://github.com/1am-programmer/your-repo/releases/download/v1.0/resume.pdf)
+[Download My Resume](https://github.com/1am-programmer/1am-programmer.github.io/releases/tag/initial-release)
 
 
 ## Skills
