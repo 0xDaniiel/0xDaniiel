@@ -9,6 +9,8 @@ As a frontend developer, I specialize in transforming business ideas into realit
 
 <a href="resume.pdf" download>Download My Resume</a>
 
+[Download My Resume](https://github.com/1am-programmer/your-repo/releases/download/v1.0/resume.pdf)
+
 
 ## Skills
 Here are some of the technologies and tools I work with:
