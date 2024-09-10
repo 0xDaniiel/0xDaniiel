@@ -19,9 +19,9 @@ Here are some of the technologies and tools I work with:
   
 - **Databases**: [Appwrite, MongoDB, Firebase]
 
-**I'm always open to discussing new projects, creative ideas, and opportunities to be part of your vision. Feel free to connect with me** and
+**Open for collaboration**
 
-_Hey! If no one told you today, you're awesome._
+
 
 
 
