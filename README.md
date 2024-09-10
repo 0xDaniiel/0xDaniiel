@@ -11,9 +11,9 @@ As a frontend developer, I specialize in transforming business ideas into realit
 ## Skills
 Here are some of the technologies and tools I work with:
 
-- **Languages**: [Html, CSS, JavaScript, TypeScript]
+  - **Languages**: [HTML, CSS, JavaScript, TypeScript, JAVA]
   
-- **Frameworks**: [React.js, Next.js, Tailwind CSS, Node.js]
+- **Frameworks**: [React.js, Next.js, Tailwind CSS, Node.js, SpringBoot]
   
 - **Tools**: [Visual Studio Code (VS Code), Git, Webpack, NPM (Node Package Manager), Figma, Postman, RestAPI, Redux, Chrome Developer Tools, Sass, Sentry.]
   
