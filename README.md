@@ -15,7 +15,7 @@ Here are some of the technologies and tools I work with:
   
 - **Frameworks**: [React.js, Next.js, Tailwind CSS, Node.js]
   
-- **Tools**: [WordPress, Git, Webpack, Figma, Postman, Redux, Sentry.]
+- **Tools**: [WordPress, Vercel, Hostinger , Figma, Postman, Redux, Sentry.]
   
 - **Databases**: [Appwrite, MongoDB, Firebase]
 
