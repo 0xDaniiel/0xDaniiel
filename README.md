@@ -1,4 +1,5 @@
-# As a software developer, I build : 
+# A software developer;
+**I build :**
 
  Websites • Mobile apps • Desktop apps • Web3 projects [ NFTS, Crypto projects, dApps ]
 - [Send a Mail](mailto:dannydotdev@gmail.com)
