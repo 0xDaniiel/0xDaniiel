@@ -1,10 +1,9 @@
 # A software developer;
-**I build :**
-
- Websites • Mobile apps • Desktop apps • Web3 projects [ NFTS, Crypto projects, dApps ]
+**I build :** Websites • Mobile apps • Desktop apps • Web3 projects [ NFTS, Crypto projects, dApps ]
 - [Send a Mail](mailto:dannydotdev@gmail.com)
 - [View my portfolio](https://danieltriedcoding.vercel.app)
-- [Reach out on X](https://x.com/FrontendDaniel)
+- [Contact me via:](https://linktr.ee/FrontendDanny)
+  
 
 
 
