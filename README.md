@@ -1,6 +1,6 @@
 # A software developer;
 **I build :** Websites • Mobile apps • Desktop apps • Web3 projects [ NFTS, Crypto projects, dApps].
-##Check Pinned for Beginner Courses  
+- Check Pinned for Beginner Courses  
 - [Send a Mail](mailto:dannydotdev@gmail.com)
 - [View my portfolio](https://danieltriedcoding.vercel.app)
 - [Contact me via:](https://linktr.ee/FrontendDanny)
