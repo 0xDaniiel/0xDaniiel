@@ -3,7 +3,7 @@
 - Check Pinned for Beginner Courses  
 - [Send a Mail](mailto:dannydotdev@gmail.com)
 - [View my portfolio](https://danieltriedcoding.vercel.app)
-- [Contact me via:](https://linktr.ee/FrontendDanny)
+- [Contact me via:](https://linktr.ee/0xDaniiel)
   
 
 
