@@ -26,5 +26,4 @@ Some of the technologies and tools I work with:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xDaniiel&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=0xDaniiel&theme=radical)
 
