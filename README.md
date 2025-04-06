@@ -18,7 +18,7 @@ Some of the technologies and tools I work with:
 
 **Open for collaboration**
 
-
+<!-- 
 
 ## 📊 GitHub Stats
 
@@ -26,4 +26,4 @@ Some of the technologies and tools I work with:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0xDaniiel&layout=compact&theme=radical)
 
-
+-->
