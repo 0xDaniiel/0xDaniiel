@@ -1,8 +1,8 @@
-# A software developer;
-**I build :** Websites • Mobile apps • Desktop apps • Web3 projects [ NFTS, Crypto projects, dApps].
-- Check Pinned for Beginner Courses  
+# I'm a Software Developer
+I build Websites, Mobile Apps, Desktop Applications, and Web3 Projects — including NFTs, crypto tools, and dApps.
+
 - [Send a Mail](mailto:dannydotdev@gmail.com)
-- [My portfolio](https://danieltriedcoding.vercel.app)
+- [Portfolio](https://danieltriedcoding.vercel.app)
 - [Contact me via:](https://linktr.ee/0xDaniiel)
 
 
@@ -14,7 +14,7 @@ Some of the technologies and tools I work with:
 - **Frameworks & Libraries**: [React.js, Next.js, Tailwind CSS, Node.js, Express.js, Wagmi, RainbowKit]  
 - **Databases**: [Appwrite, MongoDB, Firebase, PostgreSQL, Supabase]  
 - **Blockchain & Web3**: [Ethers.js, Web3.js, Hardhat, Foundry, IPFS]  
-- **Tools & Platforms**: [WordPress, Vercel, Hostinger, Figma, Postman, Redux, Sentry, Git, GitHub Actions, CI/CD]  
+- **Tools & Platforms**: [WordPress, Vercel, Hostinger, Figma, Postman, Redux, Sentry, Git, CI/CD]  
 
 **Open for collaboration**
 
