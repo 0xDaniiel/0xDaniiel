@@ -1,15 +1,21 @@
-# Software & Web3 Dev  
-I build websites, mobile apps, desktop applications, and decentralized applications (dApps), specializing in NFTs, crypto tools, and Web3 technologies.
+# Software & Web3 Developer 🚀
 
-- [Send me an email](mailto:dannydotdev@gmail.com)  
-- [Portfolio](https://danieltriedcoding.vercel.app)  
-- [Contact me via Linktree](https://linktr.ee/0xDaniiel)  
+I build **scalable, secure websites**, mobile apps, and **decentralized applications (dApps)**, focusing on real value in **Web3**, NFTs, and crypto tools.  
 
-## **Tech Skills & Expertise**  
-- **Languages**: JavaScript, TypeScript, Solidity.  
-- **Frameworks & Libraries**: React.js, Next.js, Tailwind CSS, Node.js, Express.js, Wagmi, RainbowKit  
-- **Databases**: MongoDB, PostgreSQL, Firebase, Supabase, Appwrite  
-- **Blockchain & Web3**: Ethers.js, Web3.js, Hardhat, Foundry, IPFS  
-- **Tools & Platforms**: Vercel, WordPress, Figma, Postman, Git, CI/CD, Redux, Sentry  
+- 📧 [Email me](mailto:dannydotdev@gmail.com)  
+- 🌐 [Portfolio](https://danieltriedcoding.vercel.app)  
+- 💬 [Contact me](https://linktr.ee/0xDaniiel)
 
-## **Open for Collaboration**  
+## **When You Work With Me, We:**  
+- 🌍 **Develop impactful Web3 projects**: NFTs, dApps, and blockchain integrations.  
+- 🔒 **Build secure & high-performance solutions**: Scalable, future-proof applications.  
+- 🔄 **Collaborate transparently**: Fast, iterative feedback and clear communication.
+
+## **Tech Stack**  
+- 💻 **Languages**: JavaScript, TypeScript, Solidity  
+- 🔗 **Web3**: Ethers.js, Web3.js, Hardhat  
+- ⚙️ **Frameworks**: React.js, Next.js, Tailwind CSS  
+- 🗃️ **Databases**: MongoDB, PostgreSQL  
+- 🛠️ **Tools**: Vercel, Git, CI/CD, Redux, Postman  
+
+## **Open for Collaboration** 🤝
