@@ -1,6 +1,6 @@
 # Software & Web3 Developer 
 
-I’m a **full-stack developer** and founder of a **software & blockchain development agency**, where we build **scalable applications, secure platforms, and cutting-edge Web3 products**. From sleek websites to decentralized applications (dApps), my work bridges **Web2 and Web3** to deliver real business value.  
+I’m a **full-stack developer** and founder of [Aestrix Devs](https://x.com/AestrixDevs) **software & blockchain development agency**, where we build **scalable applications, secure platforms, and cutting-edge Web3 products**. From sleek websites to decentralized applications (dApps), my work bridges **Web2 and Web3** to deliver real business value.  
 
 - 📧 [Email me](mailto:dannydotdev@gmail.com)  
 - 🌐 [Portfolio](https://aestrixdevs.digital/)  
