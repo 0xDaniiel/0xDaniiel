@@ -1,38 +1,17 @@
-# Software & Web3 Developer 
+# Front-end focused Full-stack developer 
+I build scalable web applications and production-ready Web3 products for startups and businesses.
 
-I’m a **full-stack developer** and founder of [Aestrix Devs](https://x.com/AestrixDevs) **software & blockchain development agency**, where we build **scalable applications, secure platforms, and cutting-edge Web3 products**. From sleek websites to decentralized applications (dApps), my work bridges **Web2 and Web3** to deliver real business value.  
+## Focus Areas  
+- Web applications and APIs  
+- Smart contracts and dApps  
+- End-to-end product development from architecture to deployment  
 
-- 📧 [Email me](mailto:dannydotdev@gmail.com)  
-- 🌐 [Portfolio](https://0xdaniiel.space/)  
-- 💬 [Contact me](https://linktr.ee/0xDaniiel)  
+## Tech  
+JavaScript, TypeScript, Solidity, React, Next.js, Node.js, PostgreSQL, MongoDB  
 
----
+## Work With Me  
+I partner with founders and teams to turn ideas into secure, scalable products.
 
-## **When You Work With Me (and My Agency), We:**  
-- 🌍 **Develop impactful Web3 projects**: NFTs, dApps, DeFi platforms, and blockchain integrations.  
-- 🔒 **Build secure & high-performance solutions**: Web apps, APIs, and mobile apps that scale.  
-- 🧩 **Deliver end-to-end solutions**: From strategy & UI/UX to development, deployment, and maintenance.  
-- 🔄 **Collaborate transparently**: Fast iterations, open communication, and reliable delivery.  
-
----
-
-## **Tech Stack & Expertise**  
-- 💻 **Languages**: JavaScript, TypeScript, Solidity  
-- 🔗 **Web3**: Ethers.js, Web3.js, Hardhat, Smart Contract Development  
-- ⚙️ **Frameworks**: React.js, Next.js, Tailwind CSS, Node.js, Express  
-- 📱 **Apps**: Cross-platform mobile apps (React Native)  
-- 🗃️ **Databases**: MongoDB, PostgreSQL  
-- 🛠️ **Tools**: Vercel, Git/GitHub, CI/CD, Redux, Postman, Docker  
-- ☁️ **Infra**: Cloud hosting, API integrations, serverless functions  
-
----
-
-## **Who I Work With**  
-- 🚀 **Startups & Founders**: Bringing MVPs to market fast.  
-- 💼 **Businesses**: Building platforms that automate and scale operations.  
-- 🌐 **Web3 Creators & Projects**: Launching NFT collections, DeFi apps, and blockchain tools.  
-
----
-
-## **Open for Collaboration** 🤝  
-Whether you need a **secure app**, a **Web3 project launch**, or a **technical partner** for your idea, let’s build it together.  
+[Email](mailto:dannydotdev@gmail.com) 
+[Portfolio](https://0xdaniiel.space/)
+[Contact me](https://linktr.ee/0xDaniiel)
