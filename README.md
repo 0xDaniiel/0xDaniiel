@@ -4,6 +4,7 @@ I build scalable web applications and production-ready Web3 products for startup
 ## Focus Areas  
 - Web applications and APIs  
 - Smart contracts and dApps  
+- Cross- platform Mobile Apps (iOs and Android)
 - End-to-end product development from architecture to deployment  
 
 ## Tech  
