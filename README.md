@@ -14,6 +14,6 @@ JavaScript • TypeScript • Solidity • React • Next.js • Node.js • Pos
 ## Work With Me  
 I collaborate with founders, startups, and teams to transform ideas into reliable, scalable, and production-ready products.
 
-**Email:** dannydotdev@gmail.com  
-**Portfolio:** https://0xdaniiel.space  
-**Contact:** https://linktr.ee/0xDaniiel
+[**Email:**](dannydotdev@gmail.com)  
+[**Portfolio:**](https://0xdaniiel.space)  
+[**Contact:**](https://linktr.ee/0xDaniiel)
