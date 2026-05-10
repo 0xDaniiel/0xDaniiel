@@ -1,18 +1,19 @@
-# Front-end focused Full-stack developer 
-I build scalable web applications and production-ready Web3 products for startups and businesses.
+# Front-end Developer  
+
+I design and develop modern web applications, cross-platform mobile apps, and production-ready Web3 products for startups and businesses.  
 
 ## Focus Areas  
-- Web applications and APIs  
-- Smart contracts and dApps  
-- Cross- platform Mobile Apps (iOs and Android)
-- End-to-end product development from architecture to deployment  
+- Web applications and API development  
+- Smart contracts and decentralized applications (dApps)  
+- Cross-platform mobile apps for iOS and Android  
+- End-to-end product development, from architecture to deployment  
 
-## Tech  
-JavaScript, TypeScript, Solidity, React, Next.js, Node.js, PostgreSQL, MongoDB  
+## Tech Stack  
+JavaScript • TypeScript • Solidity • React • Next.js • Node.js • PostgreSQL • MongoDB  
 
 ## Work With Me  
-I partner with founders and teams to turn ideas into secure, scalable products.
+I collaborate with founders, startups, and teams to transform ideas into reliable, scalable, and production-ready products.
 
-[Email](mailto:dannydotdev@gmail.com) 
-[Portfolio](https://0xdaniiel.space/)
-[Contact me](https://linktr.ee/0xDaniiel)
+**Email:** dannydotdev@gmail.com  
+**Portfolio:** https://0xdaniiel.space  
+**Contact:** https://linktr.ee/0xDaniiel
